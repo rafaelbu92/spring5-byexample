@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import springfivebyexample.cms.models.Category;
+import springfivebyexample.cms.vo.CategoryRequest;
 
 @RestController
 @RequestMapping("/api/category")

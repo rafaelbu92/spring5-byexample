@@ -5,6 +5,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import springfivebyexample.cms.models.News;
 import springfivebyexample.cms.models.Review;
+import springfivebyexample.cms.vo.NewsRequest;
 
 import javax.xml.ws.Response;
 import java.util.Arrays;
