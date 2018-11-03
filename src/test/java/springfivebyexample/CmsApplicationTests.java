@@ -1,4 +1,4 @@
-package springfivebyexample.cms;
+package springfivebyexample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

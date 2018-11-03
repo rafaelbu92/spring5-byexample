@@ -1,13 +1,12 @@
-package springfivebyexample.cms.resources;
+package springfivebyexample.resources;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import springfivebyexample.cms.models.News;
-import springfivebyexample.cms.models.Review;
-import springfivebyexample.cms.vo.NewsRequest;
+import springfivebyexample.models.News;
+import springfivebyexample.models.Review;
+import springfivebyexample.vo.NewsRequest;
 
-import javax.xml.ws.Response;
 import java.util.Arrays;
 import java.util.List;
 

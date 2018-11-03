@@ -1,4 +1,4 @@
-package springfivebyexample.cms.repository;
+package springfivebyexample.repository;
 
 import java.util.ArrayList;
 import java.util.Iterator;

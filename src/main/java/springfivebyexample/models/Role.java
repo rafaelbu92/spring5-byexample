@@ -1,4 +1,4 @@
-package springfivebyexample.cms.models;
+package springfivebyexample.models;
 
 public enum Role {
 

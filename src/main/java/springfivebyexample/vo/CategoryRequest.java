@@ -1,4 +1,4 @@
-package springfivebyexample.cms.vo;
+package springfivebyexample.vo;
 
 import lombok.Data;
 

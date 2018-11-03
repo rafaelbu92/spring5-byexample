@@ -1,4 +1,4 @@
-package springfivebyexample.cms;
+package springfivebyexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

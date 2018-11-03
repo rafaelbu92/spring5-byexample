@@ -1,8 +1,8 @@
-package springfivebyexample.cms.vo;
+package springfivebyexample.vo;
 
 import lombok.Data;
-import springfivebyexample.cms.models.Category;
-import springfivebyexample.cms.models.Tag;
+import springfivebyexample.models.Category;
+import springfivebyexample.models.Tag;
 
 import java.util.Set;
 

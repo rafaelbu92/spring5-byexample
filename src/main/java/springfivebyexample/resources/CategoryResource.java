@@ -1,4 +1,4 @@
-package springfivebyexample.cms.resources;
+package springfivebyexample.resources;
 
 import java.util.Arrays;
 import java.util.List;
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import springfivebyexample.cms.models.Category;
-import springfivebyexample.cms.vo.CategoryRequest;
+import springfivebyexample.models.Category;
+import springfivebyexample.vo.CategoryRequest;
 
 @RestController
 @RequestMapping("/api/category")
