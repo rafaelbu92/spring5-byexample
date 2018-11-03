@@ -1,4 +1,4 @@
-package springfivebyexample.models;
+package springfivebyexample.model;
 
 public class Category {
 

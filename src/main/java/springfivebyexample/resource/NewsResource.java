@@ -1,10 +1,10 @@
-package springfivebyexample.resources;
+package springfivebyexample.resource;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import springfivebyexample.models.News;
-import springfivebyexample.models.Review;
+import springfivebyexample.model.News;
+import springfivebyexample.model.Review;
 import springfivebyexample.vo.NewsRequest;
 
 import java.util.Arrays;

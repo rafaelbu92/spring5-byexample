@@ -1,16 +1,36 @@
-package springfivebyexample.vo;
+package springfivebyexample.model;
 
 import lombok.Data;
-import springfivebyexample.model.Role;
 
 @Data
-public class UserRequest {
+public class User {
+
+    String id;
 
     String identity;
 
     String name;
 
     Role role;
+
+    public User(){
+
+    }
+
+    public User(String id, String identity, String name, Role role) {
+        this.id = id;
+        this.identity = identity;
+        this.name = name;
+        this.role = role;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
 
     public String getIdentity() {
         return identity;

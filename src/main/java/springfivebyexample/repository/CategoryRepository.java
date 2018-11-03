@@ -1,7 +1,7 @@
 package springfivebyexample.repository;
 
 
-import springfivebyexample.models.Category;
+import springfivebyexample.model.Category;
 
 public class CategoryRepository extends AbstractRepository<Category> {
 }

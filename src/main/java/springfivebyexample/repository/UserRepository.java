@@ -1,6 +1,6 @@
 package springfivebyexample.repository;
 
-import springfivebyexample.models.User;
+import springfivebyexample.model.User;
 
 public class UserRepository extends AbstractRepository<User> {
 }
