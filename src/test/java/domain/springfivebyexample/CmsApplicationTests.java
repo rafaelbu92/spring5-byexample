@@ -1,4 +1,4 @@
-package springfivebyexample;
+package domain.springfivebyexample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

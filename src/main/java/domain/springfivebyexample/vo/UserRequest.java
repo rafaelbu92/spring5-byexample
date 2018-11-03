@@ -1,7 +1,7 @@
-package springfivebyexample.vo;
+package domain.springfivebyexample.vo;
 
 import lombok.Data;
-import springfivebyexample.model.Role;
+import domain.springfivebyexample.model.Role;
 
 @Data
 public class UserRequest {

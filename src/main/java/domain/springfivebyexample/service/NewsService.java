@@ -1,4 +1,4 @@
-package springfivebyexample.service;
+package domain.springfivebyexample.service;
 
 import org.springframework.stereotype.Service;
 

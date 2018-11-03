@@ -1,9 +1,9 @@
-package springfivebyexample.service;
+package domain.springfivebyexample.service;
 
 import org.springframework.stereotype.Service;
-import springfivebyexample.model.User;
-import springfivebyexample.repository.UserRepository;
-import springfivebyexample.vo.UserRequest;
+import domain.springfivebyexample.model.User;
+import domain.springfivebyexample.repository.UserRepository;
+import domain.springfivebyexample.vo.UserRequest;
 
 import java.util.List;
 import java.util.UUID;

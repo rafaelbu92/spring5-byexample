@@ -1,4 +1,4 @@
-package springfivebyexample.repository;
+package domain.springfivebyexample.repository;
 
 import java.util.ArrayList;
 import java.util.Iterator;

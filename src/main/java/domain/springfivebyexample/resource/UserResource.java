@@ -1,11 +1,11 @@
-package springfivebyexample.resource;
+package domain.springfivebyexample.resource;
 
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import springfivebyexample.model.User;
-import springfivebyexample.vo.UserRequest;
+import domain.springfivebyexample.model.User;
+import domain.springfivebyexample.vo.UserRequest;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,8 +1,8 @@
-package springfivebyexample.vo;
+package domain.springfivebyexample.vo;
 
 import lombok.Data;
-import springfivebyexample.model.Category;
-import springfivebyexample.model.Tag;
+import domain.springfivebyexample.model.Category;
+import domain.springfivebyexample.model.Tag;
 
 import java.util.Set;
 
